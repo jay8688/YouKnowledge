@@ -2,7 +2,7 @@
 YouKnowledge
 =======
 
-Django based web frame work on machine learning
+
 
 
 Instant running
